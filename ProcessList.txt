@@ -1,4 +1,5 @@
 PASNewsCRON: Cron job process (Read custom cronfile for OS compatible and run following the cronfile)
+RCVM: Register or Update Master code process
 PASNews: Parsing News process
 NewsEV: News data evaluation whether is positive news or negative news
 NewsSend: Send News data using IPv4 UDP socket (Broadcasting)
