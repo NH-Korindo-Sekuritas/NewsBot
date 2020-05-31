@@ -3,3 +3,4 @@ RCVM: Register or Update Master code process
 PASNews: Parsing News process
 NewsEV: News data evaluation whether is positive news or negative news
 NewsSend: Send News data using IPv4 UDP socket (Broadcasting)
+NewRV: Adjust evaluation value after changing evaluation value. default period 1 month
