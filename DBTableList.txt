@@ -1,0 +1,11 @@
+DB Name
+- ESECU: Production DB
+- DESECU: Development DB
+
+Table
+- NEWSM0001: News Master table
+- NEWSC0001: News Contents table
+- NEWSP0001: News data Process checking table 
+- NEWSE0001: News Evalution table
+- NEWSM0001: Custome Error Message table
+- NEWSZ0001: News Common table
